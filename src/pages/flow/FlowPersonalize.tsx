@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 
-const CORRECT_DATE = "2022-09-08";
+const CORRECT_DATE = "2022-07-26";
 
 const FlowPersonalize = () => {
   const navigate = useNavigate();
@@ -346,7 +346,7 @@ const FlowPersonalize = () => {
                 lineHeight: 1.5,
               }}
             >
-              it started on 08.09.2022 ♡
+              it started on 26.07.2022 ♡
             </div>
             <div
               style={{
